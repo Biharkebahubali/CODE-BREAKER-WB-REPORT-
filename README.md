@@ -1,49 +1,51 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=⚡+CODE+BREAKER+SYSTEM+⚡;💀+ACCESS+GRANTED+💀;🚀+HACKER+MODE+ACTIVATED+🚀;🔥+DOMINATE+THE+SYSTEM+🔥" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%94%A5+REDMI+KILLER+MODE+%F0%9F%94%A5;CODE+BREAKER+SPECIAL+EDITION;100%25+UNSTOPPABLE;NUKE+THE+TARGET" />
+</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="700px">
+  <img src="https://img.shields.io/badge/VERSION-3.0.0-RED?style=for-the-badge&logo=github&logoColor=white&color=ff0000">
+  <img src="https://img.shields.io/badge/PYTHON-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white&color=green">
+  <img src="https://img.shields.io/badge/PLATFORM-LINUX%20%7C%20TERMUX%20%7C%20WINDOWS-black?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=matrix&logoColor=black">
-  <img src="https://img.shields.io/badge/MODE-HACKER-ff0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/POWER-UNLIMITED-black?style=for-the-badge">
-</p>
+## 🔴 **REDMI KILLER MODE - WHATSAPP BAN NUKE** 🔴
+
+### 👑 **DEVELOPER: @CODE_BREAKER** 👑
+
+> **"जो नंबर दोगे, उसकी WhatsApp उठ जाएगी – पक्का गारंटी नहीं, पर दम है!"**
 
 ---
 
-## ⚡ SYSTEM CORE
+## ⚡ **फीचर (खतरनाक लिस्ट)**
 
-```diff
-+ 🔥 Ultra Fast Execution Engine
-+ ⚡ Real-Time Processing System
-+ 🧠 Smart Automation Logic
-+ 🚀 Advanced Performance Mode
-+ 🔄 Dynamic Flow Control
-+ 💀 Extreme Power Output
-
-
----
-
-🎯 LIVE TERMINAL PREVIEW
-
-> Initializing system...
-> Connecting to core server...
-> Access granted ✔
-> Loading modules...
-> System ready 🚀
-
+| नंबर | फीचर | दम |
+|------|-------|-----|
+| 1 | 🚀 **REDMI NUKE MODE** | 500+ ईमेल/सेकंड |
+| 2 | 🔥 **पक्का बैन (Permanent)** | हमेशा के लिए |
+| 3 | ⏳ **टाइमर बैन (Temporary)** | 1 मिनट से 1 साल |
+| 4 | 📧 **बल्क ईमेल अटैक** | 10000+ शिकायत |
+| 5 | 🎭 **फेक आईडी सपोर्ट** | कोई ट्रेस नहीं |
+| 6 | 🔄 **प्रॉक्सी रोटेटर** | IP कभी ब्लॉक नहीं |
 
 ---
 
-🛠️ INSTALLATION
+## 📥 **इंस्टॉल करने का तरीका (बिहारी स्टाइल में)**
 
-git clone https://github.com/TERA_USERNAME/Red-X-report.git
-cd Red-X-report
+```bash
+# पहला कदम – गिट ले
+git clone https://github.com/Biharkebahubali/CODE-BREAKER-WB-REPORT-.git
+
+# दूसरा कदम – अंदर घुस
+cd CODE-BREAKER-WB-REPORT-
+
+# तीसरा कदम – माल लाद
+pip install -r requirements.txt
+
+# चौथा कदम – आग लगा
+python ban.pycd Red-X-report
 pip install -r requirements.txt
 python ban.py
 
